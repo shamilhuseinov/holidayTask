@@ -1,0 +1,28 @@
+i{
+    margin:0;
+    font-size: 40px;
+    border: 2px solid;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.facebook{
+    color:royalblue;
+}
+
+.twitter{
+    color:deepskyblue;
+}
+
+.instagram{
+    color:blueviolet;
+}
+
+.linkedin{
+    color:cornflowerblue;
+}
+
+.user{
+    color:blue;
+}

@@ -1,0 +1,65 @@
+.backgroundImage{
+    opacity: 0.5;
+    width: 1409px;
+    height:720px;
+}
+
+.iconImage{
+    background-color: black;
+    height:80px;
+    display: inline-block;
+    margin-left: 140px;
+
+}
+
+.qalaGroup{
+    position:absolute;
+    color: white;
+    top:33px;
+    left:230px;
+    font-size: 25px;
+}
+
+.imgAndText{
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.container{
+    position: relative;
+}
+
+.span1{
+    position:absolute;
+    bottom:400px;
+    left: 140px;
+    font-weight: 600;
+    font-size: 60px;
+}
+.span2{
+    color: orange;
+}
+
+.lorem{
+    position:absolute;
+    bottom: 270px;
+    left:140px;
+    right:500px;
+    font-size: 20px;
+}
+
+button{
+    position:absolute;
+    height: 40px;
+    width: 150px;
+    bottom:200px;
+    left: 140px;
+    border-radius: 10%;
+    background-color: orangered;
+}
+
+.buttonText{
+    font-size: 18px;
+    color: white;
+}
